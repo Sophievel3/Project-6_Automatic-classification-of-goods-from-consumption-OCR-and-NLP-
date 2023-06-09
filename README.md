@@ -1,4 +1,4 @@
-# -Automatic-classification-of-goods-from-consumption-OCR-and-NLP-
+# Automatic-classification-of-goods-from-consumption-OCR-and-NLP-
 Testing the feasibility of a classification engine, which based on an image and a description can assign to each product an item category.
 
 This work concerns an analysis of the text descriptions and the images of products, through the following steps:
